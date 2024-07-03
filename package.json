@@ -58,6 +58,7 @@
     "node-cron": "^3.0.2",
     "node-fetch": "^3.3.0",
     "node-superfetch": "^0.3.3",
+    "nodemon": "^3.1.4",
     "old-wio.db": "^4.0.10",
     "pornsearch": "^0.3.1",
     "quick.db": "^9.0.8",
